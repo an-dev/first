@@ -1,3 +1,3 @@
-# yeeeeahh a Readme FIle
+# Hi, this is my first "Project" on Github
 
-Ok. I'm done. 
+Aaaaand. I'm done. 
