@@ -1,8 +1,5 @@
-# Hi, this is my first "Project" on Github
+# Some stuff
 
-Aaaaand. I'm done. 
-
-Just kidding 
 
 - Wordcount is a simple script that takes in a .txt files and returns
 	
