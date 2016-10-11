@@ -1,8 +1,0 @@
-1001: News principali
-1004: News dal mondo
-1032: Letteratura e Libri
-1039: NPR Music
-1128: Salute
-1014: Politica
-1007: Scienza
-	
