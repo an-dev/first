@@ -1,7 +1,7 @@
 import sys
 
 def do(d, filename):
-  f = open(filename, 'rU')
+  with open(filename, 'rU') as f:
   for line in f:
     for word in line.split():
       word = word.lower()
@@ -9,8 +9,7 @@ def do(d, filename):
         if word not in d:
           d[word] = 1
         else: 
-          d[word] = d[word] + 1
-  f.close()
+          d[word] += 1
 
 def print_words(filename):  
   d = {}
